@@ -2,7 +2,7 @@
 Aplicação de um modelo de clusterização de imagens de mangas com K-Means Model fazendo pré-processamento com Convolutional Neural Network.
 
 # Dados
-Os dados foram coletas na "força bruta" com busca de imagens de mangas pela internet.
+Os dados foram coletos na "força bruta" com busca de imagens de mangas pela internet.
 
 # Ferramentas Usadas
 ## Modelo VGG(16)
